@@ -1,0 +1,6 @@
+# Kopeeri see fail nimega .dev.vars ja tayda vaartused.
+# Kasutab ainult "npx wrangler pages dev", paris keskkonnas on need
+# muutujad Cloudflare paneelis. Fail .dev.vars on .gitignore-s.
+RESEND_API_KEY="re_xxxxxxxxxxxxxxxxxxxx"
+SAATJA="Koduleht <info@amaja.ee>"
+SAAJA="info@a-maja.com"

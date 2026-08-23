@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://amaja.ee/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/eramu-must-puitlaudis-metsamaja-hero.webp</image:loc>
+      <image:title>Metsamaja, must puitlaudis</image:title>
+      <image:caption>Musta vertikaalse puitlaudisega üksikelamu männimetsas.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://amaja.ee/tood.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+        <image:image>
+      <image:loc>https://amaja.ee/pildid/eramu-juurdeehitus-puitribifassaadiga.webp</image:loc>
+      <image:title>Juurdeehitus puitribifassaadiga</image:title>
+      <image:caption>Krohvitud eramu kõrvale projekteeritud uus maht puitribifassaadiga.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/juurdeehituse-puitribifassaad-lahivaade.webp</image:loc>
+      <image:title>Juurdeehituse fassaad lähivaates</image:title>
+      <image:caption>Vertikaalsed puitribid varjestavad kahekorruselise trepimahu.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/eramu-must-vertikaalne-puitlaudis-metsas.webp</image:loc>
+      <image:title>Metsamaja</image:title>
+      <image:caption>Musta vertikaalse puitlaudisega üksikelamu järsu viilkatusega.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/eramu-tume-puitlaudis-viilkatus-mannimetsas.webp</image:loc>
+      <image:title>Metsaelamu terrassiga</image:title>
+      <image:caption>Tumeda puitlaudisega kahekorruseline elamu männimetsas.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/eramu-terrakota-plekkfassaad-viilkatus.webp</image:loc>
+      <image:title>Terrakotamaja</image:title>
+      <image:caption>Terrakotapunase plekkfassaadiga ühekorruseline elamu.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/eramu-lamekatus-kivifassaad-varjualune.webp</image:loc>
+      <image:title>Kivifassaadiga elamu</image:title>
+      <image:caption>Lamekatusega üksikelamu heleda kivifassaadi ja autovarjualusega.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/eramu-punane-laudis-valge-piirdelaud.webp</image:loc>
+      <image:title>Punane talumaja</image:title>
+      <image:caption>Punase püstlaudise ja valgete piirdelaudadega elamu.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/eramu-kahekorruseline-lamekatus-krohv-puit.webp</image:loc>
+      <image:title>Krohvfassaadiga elamu</image:title>
+      <image:caption>Kahekorruseline lamekatusega elamu heleda krohvfassaadiga.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/eramu-kelpkatus-garaaz-maakivi.webp</image:loc>
+      <image:title>Kelpkatusega elamu</image:title>
+      <image:caption>Ühekorruseline kelpkatusega elamu garaaži ja maakivisissepääsuga.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/suvekohvik-raatuse-tanav-tartu-projekt.webp</image:loc>
+      <image:title>Suvekohvik Raatuse tänaval</image:title>
+      <image:caption>Suvekohviku hoone Tartus, puitlaudis ja haljastatud katuseterrass.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/korterelamu-visualiseering-03.webp</image:loc>
+      <image:title>Üksikelamu ümberehitus ja laiendus</image:title>
+      <image:caption>Puitfassaadiga elamu tänavavaade pärast ümberehitust.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/eramu-punane-puitfassaad-varjualusega.webp</image:loc>
+      <image:title>Elamu varjualusega</image:title>
+      <image:caption>Punase puitlaudisega elamu räästa alla viidud autovarjualusega.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/eramu-tume-puitfassaad-paikesepaneelidega.webp</image:loc>
+      <image:title>Kortermaja</image:title>
+      <image:caption>Tumeda puitlaudisega kortermaja katusele paigaldatud päikesepaneelidega.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/eramu-puitfassaad-metsas-02.webp</image:loc>
+      <image:title>Elamu metsa serval</image:title>
+      <image:caption>Patineerunud puitlaudisega elamu männimetsa serval.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/eramu-tume-puitfassaad-01.webp</image:loc>
+      <image:title>Üksikelamu viilkatusega</image:title>
+      <image:caption>Sinakashalli püstlaudisega üksikelamu kõrge klaasitud viiluga.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/suvekohvik-raatuse-tanav-vaade-eest-joonis.webp</image:loc>
+      <image:title>Suvekohviku eestvaate joonis</image:title>
+      <image:caption>Arhitektuurse projekti joonis, A-MAJA OÜ.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/suvekohvik-esimese-korruse-plaan-joonis.webp</image:loc>
+      <image:title>Suvekohviku korruse plaan</image:title>
+      <image:caption>Arhitektuurse projekti joonis, A-MAJA OÜ.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/umberehitatud-elamu-soklikorruse-ja-esimese-korruse-plaan-joonis.webp</image:loc>
+      <image:title>Ümberehitus, soklikorrus ja esimene korrus</image:title>
+      <image:caption>Garaaž 16 m², köök ja söögituba 24 m², elutuba 24,9 m².</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/umberehitatud-elamu-teise-korruse-ja-katuse-plaan-joonis.webp</image:loc>
+      <image:title>Ümberehitus, teine korrus ja katus</image:title>
+      <image:caption>Kaks magamistuba 12 ja 11,1 m², koridor 12 m².</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/umberehitatud-elamu-loiked-joonis.webp</image:loc>
+      <image:title>Ümberehitus, lõiked A-A ja B-B</image:title>
+      <image:caption>Kaks lõiget koos fassaadi ja rõdu lahendusega.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/lamekatusega-elamu-korruse-plaan-joonis.webp</image:loc>
+      <image:title>Lamekatusega elamu, korruse plaan</image:title>
+      <image:caption>Elutuba 30,8 m², köök ja söögituba 23,5 m², kolm magamistuba.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/punase-laudisega-elamu-korruse-plaan-joonis.webp</image:loc>
+      <image:title>Punane elamu, korruse plaan</image:title>
+      <image:caption>Elutuba ja köök 35,7 m², kolm magamistuba.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/punase-laudisega-elamu-loige-joonis.webp</image:loc>
+      <image:title>Punane elamu, lõige A-A</image:title>
+      <image:caption>Katusekalle 30 kraadi, varjualuse räästas.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/punase-laudisega-elamu-kulg-ja-tagavaade-joonis.webp</image:loc>
+      <image:title>Punane elamu, külg- ja tagavaade</image:title>
+      <image:caption>Rootsipunane puitlaudis, valge tuulekast ja klaasitud viil.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/tumeda-puitfassaadiga-elamu-korruste-plaanid-joonis.webp</image:loc>
+      <image:title>Tume elamu, korruste plaanid</image:title>
+      <image:caption>Elutuba 24,1 m², söögituba 19 m², neli magamistuba.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/tumeda-puitfassaadiga-elamu-neli-vaadet-joonis.webp</image:loc>
+      <image:title>Tume elamu, neli vaadet</image:title>
+      <image:caption>Vaated idast, läänest, põhjast ja lõunast.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/tumeda-puitfassaadiga-elamu-loige-joonis.webp</image:loc>
+      <image:title>Tume elamu, lõige B-B</image:title>
+      <image:caption>Katusekalle 35 kraadi, avatud liimpuitpalk.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/kortermaja-esimese-korruse-plaan-joonis.webp</image:loc>
+      <image:title>Kortermaja, esimese korruse plaan</image:title>
+      <image:caption>Kaks korterit 80,2 m², elutuba-köök 25,9 m².</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/kortermaja-teise-korruse-plaan-joonis.webp</image:loc>
+      <image:title>Kortermaja, teise korruse plaan</image:title>
+      <image:caption>Kaks korterit 85,4 m² koos sauna ja vannitoaga.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/kortermaja-loiked-joonis.webp</image:loc>
+      <image:title>Kortermaja, lõiked A-A ja B-B</image:title>
+      <image:caption>Katusekalle 15 kraadi, eraldi tulesektsiooniga pööning.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/kortermaja-eest-ja-kulgvaade-joonis.webp</image:loc>
+      <image:title>Kortermaja, eest- ja külgvaade</image:title>
+      <image:caption>Tumehall laudis ja päikesepaneelid vähemalt 9,6 kW.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/kelpkatusega-elamu-korruse-plaan-joonis.webp</image:loc>
+      <image:title>Kelpkatusega elamu, korruse plaan</image:title>
+      <image:caption>Garaaž 42,1 m², puhkeruum 25 m², köök 12,2 m².</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/kelpkatusega-elamu-loige-joonis.webp</image:loc>
+      <image:title>Kelpkatusega elamu, lõige A-A</image:title>
+      <image:caption>Katusekalle 25 kraadi ja katusefermid.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/kelpkatusega-elamu-neli-vaadet-joonis.webp</image:loc>
+      <image:title>Kelpkatusega elamu, neli vaadet</image:title>
+      <image:caption>Valge krohv, beež kiviplaat ja tumehall plekk-katus.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/rekonstrueeritud-elamu-esimese-korruse-plaan-joonis.webp</image:loc>
+      <image:title>Rekonstrueeritav elamu, esimene korrus</image:title>
+      <image:caption>Elutuba 27,5 m², söögituba 11,6 m², köök 10 m².</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/rekonstrueeritud-elamu-teise-korruse-plaan-joonis.webp</image:loc>
+      <image:title>Rekonstrueeritav elamu, teine korrus</image:title>
+      <image:caption>Magamistuba 23,7 m², vannituba 9,6 m² ja garderoobid.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/rekonstrueeritud-elamu-loige-joonis.webp</image:loc>
+      <image:title>Rekonstrueeritav elamu, lõige A-A</image:title>
+      <image:caption>Katusekalle 20 kraadi ja vundamendi põhimõte.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/rekonstrueeritud-elamu-eestvaade-joonis.webp</image:loc>
+      <image:title>Rekonstrueeritav elamu, eestvaade</image:title>
+      <image:caption>Tumepruun voodrilaud 145 mm ja hele kivisein.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/krohvitud-lamekatusega-elamu-korruste-plaanid-joonis.webp</image:loc>
+      <image:title>Krohvitud elamu, korruste plaanid</image:title>
+      <image:caption>Elu- ja söögituba 37 m², köök 19,6 m², kontor 9,5 m².</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/krohvitud-lamekatusega-elamu-loige-joonis.webp</image:loc>
+      <image:title>Krohvitud elamu, lõige A-A</image:title>
+      <image:caption>Lamekatuse kalle 1:40 ja puitkarkassil parapett.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/krohvitud-lamekatusega-elamu-neli-vaadet-joonis.webp</image:loc>
+      <image:title>Krohvitud elamu, neli vaadet</image:title>
+      <image:caption>Valge krohv, puitimitatsiooniga plaat ja klaaspiirdega rõdu.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/terrakotafassaadiga-elamu-korruse-plaan-joonis.webp</image:loc>
+      <image:title>Terrakotamaja, korruse plaan</image:title>
+      <image:caption>Elu- ja söögituba 30,9 m², köök 16,4 m², puhkeruum 27 m².</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/terrakotafassaadiga-elamu-loige-joonis.webp</image:loc>
+      <image:title>Terrakotamaja, lõige A-A</image:title>
+      <image:caption>Kaks viilkatusega mahtu, katusekalle 35 kraadi.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/punase-talumaja-korruste-plaanid-joonis.webp</image:loc>
+      <image:title>Punane elamu, korruste plaanid</image:title>
+      <image:caption>Elutuba 17,5 m², köök 14,7 m², kaks magamistuba.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/punase-talumaja-loige-joonis.webp</image:loc>
+      <image:title>Punane elamu, lõige A-A</image:title>
+      <image:caption>Katusekalle muudetud 43 kraadile, põrandaküte.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/punase-talumaja-neli-vaadet-joonis.webp</image:loc>
+      <image:title>Punane elamu, neli vaadet</image:title>
+      <image:caption>Punane püstlaudis, valged piirdelauad ja must katus.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/musta-laudisega-abihoone-korruse-plaan-joonis.webp</image:loc>
+      <image:title>Metsamaja, korruse plaan</image:title>
+      <image:caption>Panipaik 17,1 m² ning puhkeruumid 11,4 ja 9,2 m².</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/musta-laudisega-abihoone-vaated-joonis.webp</image:loc>
+      <image:title>Metsamaja, vaated</image:title>
+      <image:caption>Mustpruun termopuit ja ruudujaotusega kõrge aken.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/musta-laudisega-abihoone-loige-ja-solm-joonis.webp</image:loc>
+      <image:title>Metsamaja, lõige ja räästasõlm</image:title>
+      <image:caption>Katusekalle 45 kraadi, räästasõlm mõõtkavas 1:10.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/eramu-roheline-puitfassaad-aiaga.webp</image:loc>
+      <image:title>Valminud juurdeehitus</image:title>
+      <image:caption>Heleroheline püstlaudisega elamu koos valmis ehitatud juurdeehitusega.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/eramu-tume-laudis-kelpkatus-talvel.webp</image:loc>
+      <image:title>Valminud elamu talvel</image:title>
+      <image:caption>Kelpkatusega üksikelamu tumeda ja pruuni püstlaudisega, talvine õhtuvaade.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/roheline-elamu-korruse-plaan-joonis.webp</image:loc>
+      <image:title>Valminud juurdeehitus, korruse plaan</image:title>
+      <image:caption>Elu- ja söögituba 39,86 m², köök 12,73 m², magamistuba 23,66 m².</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/roheline-elamu-vaated-joonis.webp</image:loc>
+      <image:title>Valminud juurdeehitus, vaated</image:title>
+      <image:caption>Heleroheline laudis ja must plekk-katus, mis sobivad olemasolevaga.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/roheline-elamu-loige-joonis.webp</image:loc>
+      <image:title>Valminud juurdeehitus, lõige A-A</image:title>
+      <image:caption>Juurdeehituse viilkatus ja liitumine olemasoleva hoonega.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/eramu-must-laudis-katusealune-terrass.webp</image:loc>
+      <image:title>Valminud must elamu</image:title>
+      <image:caption>Musta püstlaudisega elamu kahe viiluga ja puitpostidel kaetud terrassiga.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/musta-laudisega-elamu-korruse-plaan-joonis.webp</image:loc>
+      <image:title>Valminud must elamu, korruse plaan</image:title>
+      <image:caption>Elu- ja söögituba 40,33 m², kolm magamistuba, kaetud terrass 24,63 m².</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/musta-laudisega-elamu-loige-joonis.webp</image:loc>
+      <image:title>Valminud must elamu, lõige A-A</image:title>
+      <image:caption>Kaks viilkatusega mahtu ja nende vahel kaetud terrass.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/juurdeehitus-vundamendi-plaan-joonis.webp</image:loc>
+      <image:title>Juurdeehitus, vundamendi plaan</image:title>
+      <image:caption>Tööruum 33,90 m² olemasoleva maja kõrval.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/juurdeehitus-esimese-korruse-plaan-joonis.webp</image:loc>
+      <image:title>Juurdeehitus, esimene korrus</image:title>
+      <image:caption>Puhkeruum 15,93 m², köök 6,60 m², vannituba 4,58 m².</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/juurdeehitus-teise-korruse-plaan-joonis.webp</image:loc>
+      <image:title>Juurdeehitus, teine korrus</image:title>
+      <image:caption>Puhkeruum 19,23 m², kontor 11,55 m², saun 2,75 m².</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/musta-laudisega-elamu-otsavaade.webp</image:loc>
+      <image:title>Valminud must elamu, vaade otsast</image:title>
+      <image:caption>Kaks viilu kõrvuti, vahel hallika laudisega osa.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/musta-laudisega-elamu-kulgvaade.webp</image:loc>
+      <image:title>Valminud must elamu, vaade küljelt</image:title>
+      <image:caption>Pikk maht ja teises otsas kõrged klaasuksed.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://amaja.ee/teenused.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://amaja.ee/meist.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/eramu-must-vertikaalne-puitlaudis-metsas.webp</image:loc>
+      <image:title>Metsamaja</image:title>
+      <image:caption>Musta vertikaalse puitlaudisega üksikelamu järsu viilkatusega.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://amaja.ee/tagasiside.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/eramu-tume-puitfassaad-01.webp</image:loc>
+      <image:title>Üksikelamu viilkatusega</image:title>
+      <image:caption>Sinakashalli püstlaudisega üksikelamu kõrge klaasitud viiluga.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://amaja.ee/kontakt.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://amaja.ee/pildid/eramu-kelpkatus-garaaz-maakivi.webp</image:loc>
+      <image:title>Kelpkatusega elamu</image:title>
+      <image:caption>Ühekorruseline kelpkatusega elamu garaaži ja maakivisissepääsuga.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://amaja.ee/privaatsus.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>

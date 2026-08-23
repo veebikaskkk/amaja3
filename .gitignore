@@ -1,0 +1,10 @@
+.env
+.env.local
+.dev.vars
+node_modules
+.DS_Store
+.wrangler
+
+# Kliendi lahtematerjal, seda hoidlasse ei panda
+3D-2/
+3D/
