@@ -86,9 +86,10 @@ async function kontakt(request, env) {
     sonum.replace(/\n/g, "<br>") +
     "</p>";
 
-  if (!env.RESEND_API_KEY || !env.SAATJA || !env.SAAJA) {
-    console.error("Puudub muutuja: RESEND_API_KEY, SAATJA või SAAJA");
-    return vastus(500, { ok: false });
+  const puuduvad = ["RESEND_API_KEY", "SAATJA", "SAAJA"].filter((n) => !env[n]);
+  if (puuduvad.length) {
+    console.error("Puuduvad muutujad:", puuduvad.join(", "));
+    return vastus(500, { ok: false, pohjus: "muutujad_puuduvad", puuduvad: puuduvad });
   }
 
   try {
@@ -110,12 +111,13 @@ async function kontakt(request, env) {
     if (!r.ok) {
       const tekst = await r.text();
       console.error("Resend viga", r.status, tekst);
-      return vastus(502, { ok: false });
+      // Kood aitab viga leida, aga Resendi vastuse teksti valja ei anta.
+      return vastus(502, { ok: false, pohjus: "resend", kood: r.status });
     }
     return vastus(200, { ok: true });
   } catch (viga) {
     console.error("Saatmise viga", viga && viga.message);
-    return vastus(500, { ok: false });
+    return vastus(500, { ok: false, pohjus: "vork" });
   }
 }
 
