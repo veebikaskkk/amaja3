@@ -716,3 +716,17 @@ body.valgusti-lahti{overflow:hidden}
 .valgusti-joonis.on-pilt{background:none;padding:0}
 .valgusti-joonis.on-pilt img{object-fit:cover}
 .valgusti-joonis:hover,.valgusti-joonis.valitud{border-color:var(--aktsent)}
+
+/* Küpsiste nõusolekuriba, jalgimine.js */
+.kypsised{
+  position:fixed;right:16px;bottom:16px;left:16px;z-index:90;
+  max-width:540px;margin-left:auto;
+  display:flex;flex-wrap:wrap;align-items:center;gap:12px 20px;
+  padding:16px 20px;
+  background:var(--susi);border:1px solid var(--joon-tugev);border-radius:2px;
+  box-shadow:0 12px 32px rgba(0,0,0,.4);
+  font-size:.88rem;line-height:1.55;
+}
+.kypsised p{margin:0;flex:1 1 260px;color:var(--tekst)}
+.kypsised-nupud{display:flex;gap:10px}
+.kypsised .nupp{font-family:inherit;cursor:pointer}
