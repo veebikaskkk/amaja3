@@ -146,6 +146,7 @@ JALUS = '''<footer class="jalus">
         <li><a href="/tagasiside.html">Tagasiside</a></li>
         <li><a href="/kontakt.html">Kontakt</a></li>
         <li><a href="/privaatsus.html">Privaatsus</a></li>
+        <li><a href="/privaatsus.html#kypsised" data-kypsised>Küpsiste seaded</a></li>
       </ul>
     </div>
     <div class="jalus-plokk">
@@ -170,6 +171,7 @@ def leht(fail, title, desc, tee, sisu, ldid=(), akt="", noindex=False):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="/jalgimine.js"></script>
 <title>{title}</title>
 <meta name="description" content="{desc}">
 {robots}<link rel="canonical" href="{DOM}{tee}">
@@ -1373,7 +1375,7 @@ privaatsus = puru("Privaatsus") + '''  <section class="lehe-pais">
         <li>ettevõtte nimi, kui selle lisate</li>
         <li>objekti aadress ja päringu kirjeldus</li>
       </ul>
-      <p>Me ei kogu külastajate kohta muid isikuandmeid ega kasuta jälgimisküpsiseid.</p>
+      <p>Me ei kogu külastajate kohta muid isikuandmeid. Reklaamiküpsiseid kasutame ainult teie nõusolekul, vaata allpool punkti Küpsised.</p>
 
       <h2>Mis eesmärgil</h2>
       <p>Andmeid kasutame ainult selleks, et teie päringule vastata ja vajadusel pakkumine koostada. Me ei kasuta neid turunduseks ega saada uudiskirju.</p>
@@ -1389,7 +1391,13 @@ privaatsus = puru("Privaatsus") + '''  <section class="lehe-pais">
       <p>Kui projekt jõuab ehitusloa menetlusse, esitame vajalikud andmed kohalikule omavalitsusele, sest ilma selleta menetlust läbi viia ei saa.</p>
 
       <h2>Statistika</h2>
-      <p>Kasutame külastusstatistika kogumiseks küpsisevaba lahendust, mis ei tuvasta üksikkülastajat ega loo profiili. Seetõttu ei ole lehel küpsiste nõusolekuriba.</p>
+      <p>Kasutame külastusstatistika kogumiseks küpsisevaba lahendust, mis ei tuvasta üksikkülastajat ega loo profiili.</p>
+
+      <h2 id="kypsised">Küpsised</h2>
+      <p>Kasutame Google Ads-i, et näha, kas reklaam toob lehele päringuid. Selleks laeb leht Google Tag Manageri. Kui vajutate ribal "Nõustun", salvestab Google teie brauserisse reklaamiküpsised, mille abil seotakse reklaamiklikk hilisema hinnapäringuga. Need küpsised kehtivad kuni 90 päeva.</p>
+      <p>Kui vajutate "Keeldun", küpsiseid ei salvestata. Google saab sel juhul ainult küpsisteta signaali, mis ei sisalda teie tunnuseid.</p>
+      <p>Andmete töötlemise alus on teie nõusolek. Andmeid töötleb Google Ireland Limited, lähemalt <a href="https://policies.google.com/privacy" rel="noopener">Google'i privaatsuseeskirjades</a>.</p>
+      <p>Teie valiku jätame meelde teie enda brauseris, et riba iga kord uuesti ei kuvataks. Valikut saate igal ajal muuta: <a href="/privaatsus.html#kypsised" data-kypsised>küpsiste seaded</a>.</p>
 
       <h2>Teie õigused</h2>
       <p>Teil on õigus küsida, milliseid andmeid teie kohta on, nõuda nende parandamist või kustutamist ning võtta nõusolek tagasi. Selleks kirjutage aadressil <a href="mailto:info@a-maja.com">info@a-maja.com</a>. Vastame ühe kuu jooksul.</p>

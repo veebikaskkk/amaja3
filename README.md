@@ -226,32 +226,36 @@ Kui `SAAJA` on mõni muu aadress, tuleb vastuseks 403.
 
 Cloudflare Web Analytics on küpsisevaba ja seda ei pea koodi lisama.
 Paneelis: **Web Analytics, Add a site**, vali domeen ja lülita sisse
-automaatne paigaldus. Nõusolekuriba ei ole vaja, seetõttu seda lehel ka
-ei ole.
+automaatne paigaldus.
 
 ---
 
-## 5b. Kui klient tahab hiljem Google Ads-i
+## 5b. Google Ads ja küpsiste nõusolek
 
-Praegu Ads-i ei ole ja jälgimiskoodi lehel ei ole. Lisamine on tehtav,
-aga sellel on tagajärjed, mis tasub kliendile enne selgeks teha.
+Lehel on Google Tag Manager, konteiner `GTM-MSDT6M3T`. Kõik on failis
+`public/jalgimine.js`, mis laetakse iga lehe `<head>` alguses:
 
-Vaja on kolme muudatust:
+- seab Google Consent Mode v2 vaikeolekuks `denied`
+- laeb GTM-i
+- näitab küpsiste riba nuppudega "Keeldun" ja "Nõustun"
+- jätab valiku meelde `localStorage` võtme `kypsised` all
 
-1. **Konversioonimõõtmine.** Google'i jälgimiskood tuleb lisada kõigi
-   lehtede `<head>` ossa ja konversioon seotakse lehega `aitah.html`,
-   kuhu külastaja jõuab pärast vormi saatmist. See leht on juba olemas
-   just sel eesmärgil.
-2. **Turvapoliitika.** Failis `_headers` tuleb `Content-Security-Policy`
-   real laiendada `script-src` ja `connect-src` väärtusi Google'i
-   domeenidega. Ilma selleta brauser blokeerib jälgimiskoodi.
-3. **Küpsised.** Google'i kood kasutab küpsiseid. See tähendab, et lehele
-   tuleb küpsiste nõusolekuriba ja `privaatsus.html` vajab eraldi
-   küpsiste peatükki. Praegu on leht küpsisevaba ja riba puudub.
+Enne nõusolekut küpsiseid ei salvestata. Pärast "Nõustun" saadetakse
+`consent update` ja dataLayerisse sündmus `kypsised_lubatud`.
+Jaluses on link "Küpsiste seaded", mis avab riba uuesti. Iga element
+atribuudiga `data-kypsised` teeb sama.
 
-Ehk tehniliselt on kõik ette valmistatud, aga Ads toob kaasa
-nõusolekuriba, mis muudab lehe külastaja jaoks pisut tüütumaks. See on
-teadlik vahetus, mitte tehniline takistus.
+Konversioonid seadistatakse GTM-i paneelis, mitte koodis. Lihtsaim on
+Google Ads Conversion tag päästikuga "Page View, Page Path equals
+/aitah.html", kuna vorm suunab pärast saatmist sinna. Telefoniklikkide
+jaoks sobib päästik "Click URL starts with tel:".
+
+**Turvapoliitika.** Failis `public/_headers` on `script-src`, `img-src`,
+`connect-src` ja `frame-src` laiendatud Google'i domeenidega. GTM-is
+ei tohi kasutada Custom HTML silte ega Custom JavaScript muutujaid,
+sest CSP blokeerib need. Google'i enda sildid töötavad.
+
+**Privaatsusleht** sisaldab peatükki Küpsised, ankur `#kypsised`.
 
 ---
 
