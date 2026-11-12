@@ -49,7 +49,7 @@
     riba.setAttribute("role", "region");
     riba.setAttribute("aria-label", "Küpsiste nõusolek");
     riba.innerHTML =
-      '<p>Kasutame Google\'i küpsiseid, et näha, kas reklaam toob päringuid. <a href="/privaatsus.html#kypsised">Loe lähemalt</a></p>' +
+      '<p>Kasutame Google\'i küpsiseid statistika ja reklaami jaoks. <a href="/privaatsus.html#kypsised">Loe lähemalt</a></p>' +
       '<div class="kypsised-nupud">' +
       '<button type="button" class="nupp nupp-tyhi nupp-vaike" data-valik="ei">Keeldun</button>' +
       '<button type="button" class="nupp nupp-vaike" data-valik="jah">Nõustun</button>' +
