@@ -357,6 +357,7 @@
             console.error("Vormi saatmine ebaonnestus, status " + r.status);
             throw new Error("halb vastus");
           }
+          try { sessionStorage.setItem("paring_saadetud", "1"); } catch (e) {}
           window.location.href = "/aitah.html";
         })
         .catch(function () {
