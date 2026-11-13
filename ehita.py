@@ -163,7 +163,7 @@ JALUS = '''<footer class="jalus">
   </div>
 </footer>'''
 
-def leht(fail, title, desc, tee, sisu, ldid=(), akt="", noindex=False):
+def leht(fail, title, desc, tee, sisu, ldid=(), akt="", noindex=False, pea=""):
     ld = "\n".join(f'<script type="application/ld+json">\n{j(o)}\n</script>' for o in ldid)
     robots = '<meta name="robots" content="noindex, follow">\n' if noindex else ''
     html = f'''<!DOCTYPE html>
@@ -172,7 +172,7 @@ def leht(fail, title, desc, tee, sisu, ldid=(), akt="", noindex=False):
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="/jalgimine.js"></script>
-<title>{title}</title>
+{pea}<title>{title}</title>
 <meta name="description" content="{desc}">
 {robots}<link rel="canonical" href="{DOM}{tee}">
 
@@ -1332,7 +1332,8 @@ aitah = '''  <section class="vealeht">
 '''
 leht("aitah.html", "Aitäh, päring on saadetud | A-MAJA OÜ",
      "Teie hinnapäring on kohale jõudnud. Vastame tavaliselt ühe tööpäeva jooksul.",
-     "/aitah.html", aitah, [], noindex=True)
+     "/aitah.html", aitah, [], noindex=True,
+     pea='<script src="/konversioon.js"></script>\n')
 
 # ---------------------------------------------------------------- 404
 
